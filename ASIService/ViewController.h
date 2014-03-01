@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+typedef void( ^requestFinishBlocks )( id result );
 @interface ViewController : UIViewController
 
 @end

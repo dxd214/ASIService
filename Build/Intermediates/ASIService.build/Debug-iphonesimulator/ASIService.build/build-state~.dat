@@ -1,0 +1,250 @@
+TASIService
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch.pch ASIService/ASIService-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIDataCompressor.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ViewController.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/AppDelegate.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527843C500000000000003B5
+t1383613381
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843D100000000000001A0
+t1383613393
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m
+c000000004E8EAEFE0000000000001A63
+t1317973758
+s6755
+
+N/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIService-Prefix.pch
+c00000000530FE3350000000000000158
+t1393550133
+s344
+
+N/Users/Width/Desktop/闪购Demon/ASIService/ASIService/AppDelegate.m
+c00000000530FE33500000000000007D5
+t1393550133
+s2005
+
+N/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ViewController.m
+c00000000530FE33500000000000001EB
+t1393550133
+s491
+
+N/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIDataCompressor.o
+t2
+s0
+
+N/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch.pch
+t1393660887
+s114548
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIAuthenticationDialog.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataDecompressor.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDownloadCache.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIFormDataRequest.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIHTTPRequest.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIInputStream.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASINetworkQueue.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/AppDelegate.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/SGDataService.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ViewController.m
+r0
+
+CBuild AST from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6b272253cbc1b841^789c4653cbc1b841^---0#1#1#--18"Check dependencies36"E5C4F66B-80DE-499D-9903-1CD3FF21FFD1-
+
+CCompileAssetCatalog /Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/ASIService.app /Users/Width/Desktop/闪购Demon/ASIService/ASIService/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIDataCompressor.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415353688.294445
+e415353689.372562
+r0
+xCompileC
+xBuild/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIDataCompressor.o
+x/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.h
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIHTTPRequest.h
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIHTTPRequestConfig.h
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIHTTPRequestDelegate.h
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIProgressDelegate.h
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASICacheDelegate.h
+o/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:23:55: error: ARC forbids explicit message send of 'autorelease'
+o        ASIDataCompressor *compressor = [[[self alloc] init] autorelease];
+o                                         ~~~~~~~~~~~~~~~~~~~ ^
+o/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:33:9: error: ARC forbids explicit message send of 'dealloc'
+o        [super dealloc];
+o         ~~~~~ ^
+o/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:128:61: error: 'autorelease' is unavailable: not available in automatic reference counting mode
+o        NSFileManager *fileManager = [[[NSFileManager alloc] init] autorelease];
+o                                                                   ^
+oIn module 'Foundation' imported from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.h:13:
+oIn module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:
+oIn module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/dispatch/dispatch.h:48:
+oIn module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/os/object.h:74:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/objc/NSObject.h:39:1: note: declaration has been explicitly marked unavailable here
+o- (id)autorelease OBJC_ARC_UNAVAILABLE;
+o^
+o/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:128:61: error: ARC forbids explicit message send of 'autorelease'
+o        NSFileManager *fileManager = [[[NSFileManager alloc] init] autorelease];
+o                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^
+o/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:164:34: warning: comparison of constant 'NSStreamEventErrorOccurred' (8) with expression of type 'NSStreamStatus' (aka 'enum NSStreamStatus') is always false [-Wtautological-constant-out-of-range-compare]
+o                if ([inputStream streamStatus] == NSStreamEventErrorOccurred) {
+o                    ~~~~~~~~~~~~~~~~~~~~~~~~~~ ^  ~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:190:34: warning: comparison of constant 'NSStreamEventErrorOccurred' (8) with expression of type 'NSStreamStatus' (aka 'enum NSStreamStatus') is always false [-Wtautological-constant-out-of-range-compare]
+o                if ([inputStream streamStatus] == NSStreamEventErrorOccurred) {
+o                    ~~~~~~~~~~~~~~~~~~~~~~~~~~ ^  ~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:215:208: warning: format specifies type 'short' but the argument has type 'int' [-Wformat]
+o        return [NSError errorWithDomain:NetworkRequestErrorDomain code:ASICompressionError userInfo:[NSDictionary dictionaryWithObjectsAndKeys:[NSString stringWithFormat:@"Compression of data failed with code %hi",code],NSLocalizedDescriptionKey,nil]];
+o                                                                                                                                                                                                                 ~~~  ^~~~
+o                                                                                                                                                                                                                 %i
+o3 warnings and 4 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m237"CompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIDataCompressor.o ASIService/ASIHttpRequst/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd7854b58cbc1b841^535e5f59cbc1b841^-4091"/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:23:55: error: ARC forbids explicit message send of 'autorelease'        ASIDataCompressor *compressor = [[[self alloc] init] autorelease];                                         ~~~~~~~~~~~~~~~~~~~ ^/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:33:9: error: ARC forbids explicit message send of 'dealloc'        [super dealloc];         ~~~~~ ^/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:128:61: error: 'autorelease' is unavailable: not available in automatic reference counting mode        NSFileManager *fileManager = [[[NSFileManager alloc] init] autorelease];                                                                   ^In module 'Foundation' imported from /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.h:13:In module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:In module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/dispatch/dispatch.h:48:In module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/os/object.h:74:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/objc/NSObject.h:39:1: note: declaration has been explicitly marked unavailable here- (id)autorelease OBJC_ARC_UNAVAILABLE;^/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:128:61: error: ARC forbids explicit message send of 'autorelease'        NSFileManager *fileManager = [[[NSFileManager alloc] init] autorelease];                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:164:34: warning: comparison of constant 'NSStreamEventErrorOccurred' (8) with expression of type 'NSStreamStatus' (aka 'enum NSStreamStatus') is always false [-Wtautological-constant-out-of-range-compare]                if ([inputStream streamStatus] == NSStreamEventErrorOccurred) {                    ~~~~~~~~~~~~~~~~~~~~~~~~~~ ^  ~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:190:34: warning: comparison of constant 'NSStreamEventErrorOccurred' (8) with expression of type 'NSStreamStatus' (aka 'enum NSStreamStatus') is always false [-Wtautological-constant-out-of-range-compare]                if ([inputStream streamStatus] == NSStreamEventErrorOccurred) {                    ~~~~~~~~~~~~~~~~~~~~~~~~~~ ^  ~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m:215:208: warning: format specifies type 'short' but the argument has type 'int' [-Wformat]        return [NSError errorWithDomain:NetworkRequestErrorDomain code:ASICompressionError userInfo:[NSDictionary dictionaryWithObjectsAndKeys:[NSString stringWithFormat:@"Compression of data failed with code %hi",code],NSLocalizedDescriptionKey,nil]];                                                                                                                                                                                                                 ~~~  ^~~~                                                                                                                                                                                                                 %i3 w7(36%IDEClangDiagnosticActivityLogMessage2@50"ARC forbids explicit message send of 'autorelease'-415353689#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^22#54#22#54#579#0#16"ARC Restrictions1(3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^22#34#22#53#559#18#-2@46"ARC forbids explicit message send of 'dealloc'-415353689#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^32#8#32#8#714#0#16"ARC Restrictions1(3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^32#2#32#7#708#0#-2@80"'autorelease' is unavailable: not available in automatic reference counting mode-415353689#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-415353689#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@159"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/objc/NSObject.h0000000000000000^38#0#38#0#868#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^127#60#127#60#3260#0#14"Semantic Issue--2@50"ARC forbids explicit message send of 'autorelease'-415353689#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^127#60#127#60#3260#0#16"ARC Restrictions1(3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^127#31#127#59#3231#27#-2@140"Comparison of constant 'NSStreamEventErrorOccurred' (8) with expression of type 'NSStreamStatus' (aka 'enum NSStreamStatus') is always false-415353689#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^163#33#163#33#4747#0#14"Semantic Issue2(3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^163#6#163#32#4720#25#3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^163#36#163#62#4750#0#-2@140"Comparison of constant 'NSStreamEventErrorOccurred' (8) with expression of type 'NSStreamStatus' (aka 'enum NSStreamStatus') is always false-415353689#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^189#33#189#33#5772#0#14"Semantic Issue2(3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^189#6#189#32#5745#25#3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^189#36#189#62#5775#0#-2@61"Format specifies type 'short' but the argument has type 'int'-415353689#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^214#207#214#207#6683#0#19"Format String Issue3(3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^214#207#214#211#6683#0#3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^214#202#214#205#6678#3#3@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^214#202#214#205#6678#3#-0#0#1#-19%DVTDocumentLocation4@116"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m0000000000000000^3801"CompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIDataCompressor.o ASIService/ASIHttpRequst/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Width/Desktop/闪购Demon/ASIService    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Width/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-generated-files.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-own-target-headers.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-all-target-headers.hmap -iquote /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-project-headers.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/DerivedSources/i386 -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/DerivedSources -F/Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator -include /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch -MMD -MT dependencies -MF /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIDataCompressor.d --serialize-diagnostics /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIDataCompressor.dia -c /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataCompressor.m -o /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/A36"9DF15A24-3F24-498C-AFC5-22AEDA5F6732-
+b326B70B8-4F56-4AC2-A4B8-2D20622443A4
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIDataDecompressor.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIDownloadCache.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIFormDataRequest.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIHTTPRequest.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASIInputStream.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASIInputStream.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ASINetworkQueue.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIHttpRequst/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/AppDelegate.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415353689.373937
+e415353690.334797
+r1
+xCompileC
+xBuild/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/AppDelegate.o
+x/Users/Width/Desktop/闪购Demon/ASIService/ASIService/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/AppDelegate.m
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/Width/Desktop/闪购Demon/ASIService/ASIService/AppDelegate.m211"CompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/AppDelegate.o ASIService/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler98dd5f59cbc1b841^dc7f5c5acbc1b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/AppDelegate.m0000000000000000^3737"CompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/AppDelegate.o ASIService/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Width/Desktop/闪购Demon/ASIService    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Width/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-generated-files.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-own-target-headers.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-all-target-headers.hmap -iquote /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-project-headers.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/DerivedSources/i386 -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/DerivedSources -F/Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator -include /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch -MMD -MT dependencies -MF /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/AppDelegate.dia -c /Users/Width/Desktop/闪购Demon/ASIService/ASIService/AppDelegate.m -o /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimul36"C3524617-D399-4A5D-9C30-5408BC2A9951-
+b326B70B8-4F56-4AC2-A4B8-2D20622443A4
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/SGDataService.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/SGDataService.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ViewController.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415353688.295088
+e415353690.333267
+r1
+xCompileC
+xBuild/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ViewController.o
+x/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ViewController.m
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ViewController.m217"CompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ViewController.o ASIService/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8baa4b58cbc1b841^897b5c5acbc1b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ViewController.m0000000000000000^3755"CompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ViewController.o ASIService/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Width/Desktop/闪购Demon/ASIService    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Width/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-generated-files.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-own-target-headers.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-all-target-headers.hmap -iquote /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-project-headers.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/DerivedSources/i386 -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/DerivedSources -F/Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator -include /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch -MMD -MT dependencies -MF /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/ViewController.dia -c /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ViewController.m -o /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulato36"ED37D39A-3DD8-4AFE-94A9-58BD15042C32-
+b326B70B8-4F56-4AC2-A4B8-2D20622443A4
+
+CCompileC Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/Objects-normal/i386/main.o /Users/Width/Desktop/闪购Demon/ASIService/ASIService/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/Width/Desktop/闪购Demon/ASIService/ASIService/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/ASIService.app/en.lproj/InfoPlist.strings ASIService/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/ASIService.app.dSYM /Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/ASIService.app/ASIService
+r0
+
+CLd /Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/ASIService.app/ASIService normal i386
+r0
+
+CProcessInfoPlistFile /Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/ASIService.app/Info.plist /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIService-Info.plist
+r0
+
+CProcessPCH /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch.pch ASIService/ASIService-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415353683.283561
+e415353688.285173
+r1
+xProcessPCH
+x/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch.pch
+xASIService/ASIService-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIService-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile ASIService/ASIService-Prefix.pch223"ProcessPCH Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch.pch ASIService/ASIService-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1cce4853cbc1b841^86ff4858cbc1b841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/Width/Desktop/%E9%97%AA%E8%B4%ADDemon/ASIService/ASIService/ASIService-Prefix.pch0000000000000000^3609"ProcessPCH Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch.pch ASIService/ASIService-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Width/Desktop/闪购Demon/ASIService    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Width/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-generated-files.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-own-target-headers.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-all-target-headers.hmap -iquote /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/ASIService-project-headers.hmap -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/DerivedSources/i386 -I/Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/ASIService.build/Debug-iphonesimulator/ASIService.build/DerivedSources -F/Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-ferjmfnpfwlvfofdvjicvlpetzrt/ASIService-Prefix.pch.d -c /Users/Width/Desktop/闪购Demon/ASIService/ASIService/ASIService-Prefix.pch -o /Users/Width/Desktop/闪购Demon/ASIService/Build/Intermediates/PrecompiledHeaders/ASIService-Prefix-fer36"FEB52FB7-AB1C-448B-84B0-9A912B4B56A4-
+b326B70B8-4F56-4AC2-A4B8-2D20622443A4
+
+CProcessPCH /Users/Width/Library/Developer/Xcode/DerivedData/ASIService-bmfcgfrunzqfioebziwcjioffaws/Index/PrecompiledHeaders/ASIService-Prefix-emojjfqmdufdrwgjzyrjmpcwtdsm_ast/ASIService-Prefix.pch.pch ASIService/ASIService-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Width/Desktop/闪购Demon/ASIService/Build/Products/Debug-iphonesimulator/ASIService.app
+r0
+
